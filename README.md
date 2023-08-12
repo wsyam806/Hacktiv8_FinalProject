@@ -13,7 +13,14 @@ Furthermore, the study employs advanced techniques such as Customer Segmentation
 
 # About Dataset
 The dataset, "The Berka Dataset," available on Kaggle, is a comprehensive collection of banking and financial transaction records. Curated by Marcelo Ventura, this dataset encompasses a wide array of information, including customer demographics, transaction details, account attributes, and geographic data. With a focus on real-world financial interactions, the dataset offers a rich and multifaceted glimpse into customer behavior, credit risk assessment, geographic trends, customer segmentation, and temporal patterns. This dataset provides a valuable resource for conducting in-depth analyses and deriving meaningful insights in the fields of finance, economics, and data science. Its multidimensional nature makes it suitable for exploring various research questions and fostering a deeper understanding of financial dynamics.
-["The Berka Dataset,"](https://www.kaggle.com/datasets/marceloventura/the-berka-dataset)
+[The Berka Dataset Link](https://www.kaggle.com/datasets/marceloventura/the-berka-dataset)
+
+Datasets Link Download:
+* [account.csv](https://drive.google.com/file/d/1Y-aWCmMK5D4WTADszc6SZudwzNGz0Pw4/view?usp=sharing)
+* [trans.csv](https://drive.google.com/file/d/1aC3ydTijO7zon67E9GpqCBAcvUnt-W2I/view?usp=sharing)
+* [client.csv](https://drive.google.com/file/d/1evC1kfced6pggNG41TLFfxkUIV2yDmOo/view?usp=sharing)
+* [disp.csv](https://drive.google.com/file/d/1fBnefMsUFucCl5f1KSgd1pzBElzHMQqC/view?usp=sharing)
+* [district.csv](https://drive.google.com/file/d/1ih18pcCRcnjf3ioV33gff7_ZA08zmOsE/view?usp=sharing)
 
 # EDA Analysis
 ![Transaction](https://github.com/wsyam806/Hacktiv8_FinalProject/blob/e87356f3e87ecf7987eddb562b273a364209b9dd/Readme_Content/Images/Amount%20Transaction.PNG)
