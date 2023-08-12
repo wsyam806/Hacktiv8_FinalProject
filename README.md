@@ -39,7 +39,7 @@ The clustering analysis using K-means yielded five distinct clusters with varyin
 
 # Deployment
 Using deployment app we can offer constructed product based on cluster characteristic
-![Trend](https://github.com/wsyam806/Hacktiv8_FinalProject/blob/ca06a43d34586ca47f6642d58d81df8e73a18baa/Readme_Content/Images/Trend.PNG)
+![Deployment](https://github.com/wsyam806/Hacktiv8_FinalProject/blob/575264605c5ab47832cbdb47dcd8cc9bf005fd2a/Readme_Content/Images/deployment.PNG)
 
 # Conclusion
 ### EDA Conclusion
