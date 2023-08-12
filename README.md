@@ -37,6 +37,10 @@ Datasets Link Download:
 The clustering analysis using K-means yielded five distinct clusters with varying financial characteristics. Each cluster represents a different group of customers, and the associated financial attributes provide valuable insights for tailoring product offerings and services in the banking industry.
 ![Cluster](https://github.com/wsyam806/Hacktiv8_FinalProject/blob/c9ee79bb1a7b8015f75ee2e30c848731fa4c14f8/Readme_Content/Images/Clustering.PNG)
 
+# Deployment
+Using deployment app we can offer constructed product based on cluster characteristic
+![Trend](https://github.com/wsyam806/Hacktiv8_FinalProject/blob/ca06a43d34586ca47f6642d58d81df8e73a18baa/Readme_Content/Images/Trend.PNG)
+
 # Conclusion
 ### EDA Conclusion
 1. Customer Behavior Analysis Result:
