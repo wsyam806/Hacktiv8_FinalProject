@@ -18,6 +18,12 @@ The dataset, "The Berka Dataset," available on Kaggle, is a comprehensive collec
 # EDA Analysis
 ![Transaction](https://github.com/wsyam806/Hacktiv8_FinalProject/blob/e87356f3e87ecf7987eddb562b273a364209b9dd/Readme_Content/Images/Amount%20Transaction.PNG)
 ![Demograph](https://github.com/wsyam806/Hacktiv8_FinalProject/blob/e87356f3e87ecf7987eddb562b273a364209b9dd/Readme_Content/Images/amount%20to%20demographic.PNG)
+![Demograph](https://github.com/wsyam806/Hacktiv8_FinalProject/blob/e87356f3e87ecf7987eddb562b273a364209b9dd/Readme_Content/Images/relationship%20demographic.PNG)
+![Credit Utilization](https://github.com/wsyam806/Hacktiv8_FinalProject/blob/ca06a43d34586ca47f6642d58d81df8e73a18baa/Readme_Content/Images/Credit%20Utilization.PNG)
+![Impact Unemployment](https://github.com/wsyam806/Hacktiv8_FinalProject/blob/ca06a43d34586ca47f6642d58d81df8e73a18baa/Readme_Content/Images/Impact%20Unemployment.PNG)
+![District](https://github.com/wsyam806/Hacktiv8_FinalProject/blob/ca06a43d34586ca47f6642d58d81df8e73a18baa/Readme_Content/Images/District%20Population.PNG)
+![Average Salary](https://github.com/wsyam806/Hacktiv8_FinalProject/blob/ca06a43d34586ca47f6642d58d81df8e73a18baa/Readme_Content/Images/Average%20Salary.PNG)
+![Trend](https://github.com/wsyam806/Hacktiv8_FinalProject/blob/ca06a43d34586ca47f6642d58d81df8e73a18baa/Readme_Content/Images/Trend.PNG)
 
 
 # Clustering Method
