@@ -16,7 +16,9 @@ The dataset, "The Berka Dataset," available on Kaggle, is a comprehensive collec
 ["The Berka Dataset,"](https://www.kaggle.com/datasets/marceloventura/the-berka-dataset)
 
 # EDA Analysis
-![Transaction](https://drive.google.com/file/d/1hhhhYgNnzsHqPJ8-TR6YVs2hRG1BwjsA/view?usp=drive_link)
+![Transaction](https://github.com/wsyam806/Hacktiv8_FinalProject/blob/e87356f3e87ecf7987eddb562b273a364209b9dd/Readme_Content/Images/Amount%20Transaction.PNG)
+![Demograph](https://github.com/wsyam806/Hacktiv8_FinalProject/blob/e87356f3e87ecf7987eddb562b273a364209b9dd/Readme_Content/Images/amount%20to%20demographic.PNG)
+
 
 # Clustering Method
 The clustering analysis using K-means yielded five distinct clusters with varying financial characteristics. Each cluster represents a different group of customers, and the associated financial attributes provide valuable insights for tailoring product offerings and services in the banking industry.
