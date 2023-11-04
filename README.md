@@ -2,16 +2,20 @@
 Name  : Wawan Setiawan S.
 Batch : HCK - 006
 
-# Deployment
-Here is deployment app which can give best offer constructed product based on cluster characteristic
-- [Deployment](https://huggingface.co/spaces/WSYAM806/Hacktiv8_Final_Project)
-
-![Deployment](https://github.com/wsyam806/Hacktiv8_FinalProject/blob/575264605c5ab47832cbdb47dcd8cc9bf005fd2a/Readme_Content/Images/deployment.PNG)
-
 # Project Title
 **Uncover potential insights, clustering, product recommendation app using 1999 Czech Bank Financial Dataset**
 
-# About Dataset
+<!-- ABOUT THE PROJECT -->
+# About The Project
+This study presents an exploratory analysis of banking data to uncover potential insights and patterns related to customer behavior, credit risk assessment, geographic influences, customer segmentations, and time series trends. The analysis is conducted by integrating multiple tables containing transaction records, customer demographics, and district characteristics. The study employs various analytical techniques to extract valuable information from the data.
+
+![Deployment](https://github.com/wsyam806/Hacktiv8_FinalProject/blob/575264605c5ab47832cbdb47dcd8cc9bf005fd2a/Readme_Content/Images/deployment.PNG)
+
+## Deployment
+Here is deployment app which can give best offer constructed product based on cluster characteristic
+- [Deployment](https://huggingface.co/spaces/WSYAM806/Hacktiv8_Final_Project)
+
+## About Dataset
 The dataset, "The Berka Dataset," available on Kaggle, is a comprehensive collection of banking and financial transaction records. Curated by Marcelo Ventura, this dataset encompasses a wide array of information, including customer demographics, transaction details, account attributes, and geographic data. With a focus on real-world financial interactions, the dataset offers a rich and multifaceted glimpse into customer behavior, credit risk assessment, geographic trends, customer segmentation, and temporal patterns. This dataset provides a valuable resource for conducting in-depth analyses and deriving meaningful insights in the fields of finance, economics, and data science. Its multidimensional nature makes it suitable for exploring various research questions and fostering a deeper understanding of financial dynamics.
 [The Berka Dataset Link](https://www.kaggle.com/datasets/marceloventura/the-berka-dataset)
 
@@ -22,8 +26,15 @@ Datasets Link Download:
 * [disp.csv](https://drive.google.com/file/d/1fBnefMsUFucCl5f1KSgd1pzBElzHMQqC/view?usp=sharing)
 * [district.csv](https://drive.google.com/file/d/1ih18pcCRcnjf3ioV33gff7_ZA08zmOsE/view?usp=sharing)
 
-# Abstract
-This study presents an exploratory analysis of banking data to uncover potential insights and patterns related to customer behavior, credit risk assessment, geographic influences, customer segmentations, and time series trends. The analysis is conducted by integrating multiple tables containing transaction records, customer demographics, and district characteristics. The study employs various analytical techniques to extract valuable information from the data.
+# Built With
+This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+
+* Python 3.11
+* Pandas
+* Numpy 
+* Matplotlib
+* Seaborn
+* Kmeans-Clustering
 
 # Objective
 In the realm of Customer Behavior Analysis, the study investigates transaction frequency patterns among different account types, distinguishing between owners and users. Additionally, the research delves into the average transaction amounts and account balances across distinct demographic regions. The analysis further dissects transaction types, such as credit and debit, based on customer attributes, uncovering trends and correlations between demographics and transaction behaviors.
@@ -133,3 +144,11 @@ The insights derived from the clustering analysis can have significant business 
 5. **Branch and Service Allocation:** By understanding geographic and demographic patterns, banks can optimize branch locations and service offerings. For instance, areas with higher urbanization (Cluster 3) may require more investment in advanced digital banking solutions, while areas with lower financial activity (Cluster 4) might benefit from targeted local branch support.
 
 In conclusion, the combination of exploratory data analysis (EDA) and clustering analysis provides a comprehensive understanding of customer behaviors and preferences, enabling banks to make informed decisions, tailor their strategies, and enhance overall customer satisfaction and financial performance.
+
+# Contact
+
+Your Name - [@your_twitter](https://twitter.com/wwn.stwn) - wawansetiawan.sy@gmail.com
+
+Project Link: [https://github.com/wsyam806/Hacktiv8_FinalProject](https://github.com/wsyam806/Hacktiv8_FinalProject)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
